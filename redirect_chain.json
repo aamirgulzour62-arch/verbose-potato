@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.google.com/share.google?q=Z2wNCRxVJHe5E3sY3",
+    "status": 301,
+    "content_type": "text/html; charset=UTF-8",
+    "location": "https://gshort.net/?p=3isRrAN&_gsw=co5UlKFtdEA9dEvrfQqeLxoIMtgNf3h43gaH96OZf-k",
+    "file": "01.html",
+    "assets": []
+  },
+  {
+    "url": "https://gshort.net/?p=3isRrAN&_gsw=co5UlKFtdEA9dEvrfQqeLxoIMtgNf3h43gaH96OZf-k",
+    "status": 302,
+    "content_type": null,
+    "location": "https://vercel-logs-livid.vercel.app/api/redirect?_gsw=co5UlKFtdEA9dEvrfQqeLxoIMtgNf3h43gaH96OZf-k&img=https%3A%2F%2Fpub-9106393a3bc14926b10613a0c98b892a.r2.dev%2Ffol4%2Fmotorola14.gif&url=https%3A%2F%2Fmao-2ph.pages.dev%2F"
+  },
+  {
+    "url": "https://vercel-logs-livid.vercel.app/api/redirect?_gsw=co5UlKFtdEA9dEvrfQqeLxoIMtgNf3h43gaH96OZf-k&img=https%3A%2F%2Fpub-9106393a3bc14926b10613a0c98b892a.r2.dev%2Ffol4%2Fmotorola14.gif&url=https%3A%2F%2Fmao-2ph.pages.dev%2F",
+    "status": 302,
+    "content_type": null,
+    "location": "https://mao-2ph.pages.dev/"
+  },
+  {
+    "url": "https://mao-2ph.pages.dev/",
+    "status": 301,
+    "content_type": "text/plain;charset=UTF-8",
+    "location": "https://racialburgerdiverse.com/dS29JqD/B7znf77/wQ6omTrppMaIJ6f/F8yQtsycESAL8Q/ORweFfE2X4/SeMxtgTv5/7fI/_oOIYDP8dloWrrrv/-xVhS/usR/F7nbTgJkNVR/2KNM2i4t_9iaixAdt/K4x820orBcVQ
+"
+  },
+  {
+    "url": "https://racialburgerdiverse.com/dS29JqD/B7znf77/wQ6omTrppMaIJ6f/F8yQtsycESAL8Q/ORweFfE2X4/SeMxtgTv5/7fI/_oOIYDP8dloWrrrv/-xVhS/usR/F7nbTgJkNVR/2KNM2i4t_9iaixAdt/K4x820orBcVQ
+",
+    "status": 200,
+    "content_type": "text/html",
+    "location": null,
+    "file": "05.html",
+    "assets": []
+  }
+]
